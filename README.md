@@ -5,7 +5,7 @@
 ## Warning: !!! ON YOUR OWN RISK !!!
 1. Only tested on iOS 8.4/9.0.2, ARM64, untethered jailbreak.
 2. Do not use it on tethered jailbreak device, it may break the system, and cause white apple.
-3. If you do want to use it on tethered jailbreak device, I suggest that unpacking the deb and install it manually, make sure not overriding any system library(libncurses.5.4.dylib, libpanel.5.4.dylib).
+3. If you do want to use it on tethered jailbreak device, I suggest that unpacking the deb and install it manually, make sure not overriding any system library(libncurses.5.4.dylib, libpanel.5.4.dylib, using install_name_tool to change lib id, path).
 
 ## Install
 1. `dpkg -i python-v2.7.6-proteas-2015-11-30.deb`
