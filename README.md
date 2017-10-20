@@ -16,7 +16,7 @@
 2. `dpkg -r lldb`
 
 ## Known Issues
-1. omit messages which outputting to stdout & stderr.
+1. discard messages which outputting to stdout & stderr.
 
 ## Hash
 * python-v2.7.6-proteas-2015-11-30.deb: 50d3fa7d260e2d5f5fab071bfff3e7e4
