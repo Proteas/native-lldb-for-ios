@@ -28,6 +28,7 @@
 * Any dylib loaded by lldb should be codesigned.
 * My lldb compiling env is broken, so I can't fix any issue.
 * You can write your debugger or security tools based on lldb in Python, demo: https://github.com/llvm-mirror/lldb/blob/master/examples/python/process_events.py
+* The deb contains: armv7, armv7s, arm64, so you can thin it to use less storage.
 
 ## Contact
 * https://twitter.com/ProteasWang
